@@ -1,0 +1,25 @@
+{
+  "packs": [
+    {
+      "id": "default",
+      "version": "1.0",
+      "packName": "Quizloopie Vol. 1",
+      "description": "The original pack. 10 questions. You probably know 3 of them.",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/quizloopie-questions/main/packs/vol1.json"
+    },
+    {
+      "id": "vol2",
+      "version": "1.0",
+      "packName": "Pop Culture Explosion",
+      "description": "Movies, music, TV, and things that were definitely on the internet.",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/quizloopie-questions/main/packs/vol2.json"
+    },
+    {
+      "id": "vol3",
+      "version": "1.0",
+      "packName": "Smartypants Edition",
+      "description": "Science, history, geography. Bring your brain. Leave your ego.",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/quizloopie-questions/main/packs/vol3.json"
+    }
+  ]
+}
